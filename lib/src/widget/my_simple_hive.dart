@@ -4,8 +4,8 @@ import 'package:hive_flutter/hive_flutter.dart';
 
 class MySimpleHiveSpell {
   static _ready(
-      String tableName,
-      ) async {
+    String tableName,
+  ) async {
     if (!Hive.isBoxOpen(tableName)) {
       await Hive.openBox(tableName);
     }
