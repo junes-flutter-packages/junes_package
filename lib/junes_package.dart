@@ -1,7 +1,7 @@
 library junes_package;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/my_simple_hive.dart';
+export 'src/function_note.dart';
+export 'src/my_menu_floating_button.dart';
+export 'src/practice_note.dart';
+export 'src/scaffold_view_note.dart';
