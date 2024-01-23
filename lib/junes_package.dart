@@ -1,5 +1,8 @@
 library junes_package;
 
+export 'src/function/my_get_storage.dart';
+export 'src/function/my_assets.dart';
+
 export 'src/function/my_timeago.dart';
 export 'src/function/my_getx.dart';
 export 'src/function/my_date_time.dart';
