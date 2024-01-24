@@ -1,6 +1,5 @@
 import 'package:flutter/services.dart';
 
-
 class MyAssets {
   Future<String> textFileLoading(String path) async {
     return await rootBundle.loadString(path);
