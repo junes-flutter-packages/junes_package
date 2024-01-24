@@ -8,7 +8,7 @@ export 'src/function/my_date_time.dart';
 export 'src/function/my_random.dart';
 export 'src/function/my_file_manager.dart';
 export 'src/function/my_lang_code.dart';
-export 'src/function/my_url_launach.dart
+export 'src/function/my_url_launach.dart';
 export 'src/function/my_convert.dart';
 
 export 'src/widget/my_simple_hive.dart';

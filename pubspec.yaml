@@ -1,6 +1,6 @@
 name: junes_package
 description: "widget and function for me"
-version: 0.9.8
+version: 0.9.9
 homepage: https://github.com/junes-flutter-packages/junes_package
 
 environment:
